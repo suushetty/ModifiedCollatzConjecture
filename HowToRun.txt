@@ -1,0 +1,4 @@
+Running the jars
+EulerProblem 277
+java -jar EulerProblem277.jar ModifiedCollatzSequence
+

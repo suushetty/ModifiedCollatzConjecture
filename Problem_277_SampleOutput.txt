@@ -1,0 +1,46 @@
+==========================================================================================
+ModifiedCollatzSequenceApplication
+This application calculates the smallest number greater than a number N that has the modified collatz sequence
+
+Enter the lower bound (+ve) for Sequence: 
+1000000000000000
+Enter the Prefix Sequence (U,D,d): 
+UDDDUdddDDUDDddDdDddDDUDDdUUDd
+Number that starts with the given sequence: 1125977393124310
+Execution Time: 6 ms
+
+==========================================================================================
+Enter the lower bound (+ve) for Sequence: 
+1000000
+Enter the Prefix Sequence (U,D,d): 
+DdDddUUdDD
+Number that starts with the given sequence: 1004064
+Execution Time: 6 ms
+==========================================================================================
+
+Enter the lower bound (+ve) for Sequence: 
+1000000
+Enter the Prefix Sequence (U,D,d): 
+ddddddDDDDDD
+Number that starts with the given sequence: 1253879
+Execution Time: 6 ms
+==========================================================================================
+
+Enter the lower bound (+ve) for Sequence: 
+1000000
+Enter the Prefix Sequence (U,D,d): 
+UDDDDDsss
+Input Sequence Incorrect . Exiting
+==========================================================================================
+
+Enter the lower bound (+ve) for Sequence: 
+-7
+Input Bound Incorrect . Exiting
+==========================================================================================
+
+Enter the lower bound (+ve) for Sequence: 
+45
+Enter the Prefix Sequence (U,D,d): 
+dDd
+Number that starts with the given sequence: 50
+Execution Time: 6 ms
